@@ -2,7 +2,7 @@ FXBlurView
 
 Version 1.6.4, September 2nd, 2015
 
-Copyright (C) 2013 Charcoal Design
+Copyright (C) 2015 hyp Design
 
 This software is provided 'as-is', without any express or implied
 warranty.  In no event will the authors be held liable for any damages
